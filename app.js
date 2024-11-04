@@ -66,7 +66,8 @@ const App = () => {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.header}>Gestão de Processos Digitais</Text>
+      {/* Novo Título */}
+      <Text style={styles.header}>Armazenamento de Processos Licitatórios Saubara</Text>
 
       {/* Campo de busca */}
       <View style={styles.searchContainer}>
